@@ -1,0 +1,2 @@
+C:\Users\Christian Castro -C4\Desktop\New folder\New folder\memoriaBPPVU\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Christian Castro -C4\Desktop\New folder\New folder\memoriaBPPVU\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
